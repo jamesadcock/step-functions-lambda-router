@@ -1,0 +1,3 @@
+type RouterInput = {
+    route: string
+  }
